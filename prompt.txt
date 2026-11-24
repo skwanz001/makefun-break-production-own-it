@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: Break Production, Own It (u-ricoxyz-break-production-own-it-be78a994) — satu baris di bawah 200 karakter yang dicetak AI agent di detik ia merusak production: pesan error yang brutal jujur atau alasan postmortem. Judge menilai kejujuran soal kerusakan dulu, lalu catchiness, lalu apakah barisnya terdengar seperti agent penyebab outage.
